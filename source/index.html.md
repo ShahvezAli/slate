@@ -1,12 +1,11 @@
-
-
 # Introduction
 
-Welcome to the Smookah API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the Smookah API! You can use our API to access Smookah API endpoints, which can get information on various entities in our database.
 
-We have language bindings in Shell, Ruby, and Python! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+We have language bindings in Ruby.
 
-This example API documentation page was created with [Slate](https://github.com/tripit/slate). Feel free to edit it and use it as a base for your own API's documentation.
+Every API for this project have to be prefixed with “http://example.com” and have to include “Auth-Token” as headres once the user is login.
+
 
 # Authentication
 
